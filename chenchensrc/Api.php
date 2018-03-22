@@ -1,7 +1,7 @@
 <?php
 
-namespace  web;
-use  web\Curl;
+namespace  chenchensrc;
+use  chenchensrc\Curl;
 
 class Api{
 

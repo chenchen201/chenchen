@@ -1,0 +1,19 @@
+{
+    "name": "vendor/web",
+    "description": "this is web",
+    "type": "library",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "authors": [
+        {
+            "name": "chenchen",
+            "email": "wh1538712@sina.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+	"autoload": {
+      "psr-4": {"web\\":"web\\src"},
+      "files": ["\\web\\functions.php"]
+	}
+}

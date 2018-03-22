@@ -13,7 +13,7 @@
     ],
     "minimum-stability": "dev",
 	"autoload": {
-      "psr-4": {"web\\":"web\\src"},
-      "files": ["\\web\\functions.php"]
+      "psr-4": {"web\\":"src/"},
+      "files": ["\\functions.php"]
 	}
 }

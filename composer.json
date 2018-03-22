@@ -7,13 +7,13 @@
     },
     "authors": [
         {
-            "name": "chenchen",
+            "name": "chenchen201",
             "email": "wh1538712@sina.cn"
         }
     ],
     "minimum-stability": "dev",
 	"autoload": {
-      "psr-4": {"web\\":"chenchensrc/"},
+      "psr-4": {"web":"chenchensrc/"},
       "files": ["\\chenchensrc\\functions.php"]
 	}
 }

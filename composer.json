@@ -1,5 +1,5 @@
 {
-    "name": "web",
+    "name": "chenchensrc/api",
     "description": "this is web",
     "type": "library",
     "require": {
@@ -13,7 +13,7 @@
     ],
     "minimum-stability": "dev",
 	"autoload": {
-      "psr-4": {"web\\":"src/"},
-      "files": ["\\src\\functions.php"]
+      "psr-4": {"web\\":"chenchensrc/"},
+      "files": ["\\chenchensrc\\functions.php"]
 	}
 }

@@ -1,5 +1,5 @@
 {
-    "name": "chenchensrc",
+    "name": "chenchen201/chenchen",
     "description": "this is web",
     "keywords": [
         "php", "curl"
@@ -10,7 +10,7 @@
     },
     "authors": [
         {
-            "name": "chenchensrc",
+            "name": "chenchen201",
             "email": "wh1538712@sina.cn"
         }
     ],

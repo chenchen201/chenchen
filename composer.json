@@ -1,5 +1,5 @@
 {
-    "name": "vendor/web",
+    "name": "web",
     "description": "this is web",
     "type": "library",
     "require": {

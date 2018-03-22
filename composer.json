@@ -16,7 +16,7 @@
     ],
     "minimum-stability": "dev",
 	"autoload": {
-      "psr-4": {"chenchensrc\\":"chenchensrc/"},
-      "files": ["\\chenchensrc\\functions.php"]
+      "psr-4": {"phpcurltest\\":"phpcurltest/"},
+      "files": ["\\phpcurltest\\functions.php"]
 	}
 }

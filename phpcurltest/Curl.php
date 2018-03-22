@@ -1,5 +1,5 @@
 <?php 
-namespace chenchensrc;
+namespace phpcurltest;
 /**
  * CURL wrapper class
  * @author: KevinChen

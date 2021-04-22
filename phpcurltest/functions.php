@@ -1,6 +1,6 @@
 <?php
 
-function env($str){
+function envronment($str){
 	if($str=='APP_DEBUG'){
 		echo true;
 	}else{

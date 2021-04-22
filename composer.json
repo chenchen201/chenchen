@@ -5,6 +5,7 @@
     "keywords": [
         "php", "curl"
     ],
+    "version": "1.0.0",
     "type": "library",
 	"require": {
         "php": ">=5.0.0"

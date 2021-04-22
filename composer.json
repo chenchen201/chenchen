@@ -1,6 +1,7 @@
 {
     "name": "phpcurltest/curl",
     "description": "this is web",
+	"license": "MIT",
     "keywords": [
         "php", "curl"
     ],

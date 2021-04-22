@@ -6,6 +6,9 @@
         "php", "curl"
     ],
     "version": "1.0.0",
+    "require-dev": {
+        "phpcurltest/curl": "^5.7 || ^6.5 || ^7.1"
+    },
     "type": "library",
 	"require": {
         "php": ">=5.0.0"

@@ -19,7 +19,6 @@
             "email": "wh1538712@sina.cn"
         }
     ],
-    "minimum-stability": "dev",
 	"autoload": {
       "psr-4": {"phpcurltest\\":"phpcurltest/"},
       "files": ["\\phpcurltest\\functions.php"]

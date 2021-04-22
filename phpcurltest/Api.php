@@ -18,7 +18,7 @@ class Api{
             $this->pathSuffix = $pathSuffix;
         }
 		
-        public function getDatas(){
+        public  static  function getDatas(){
 			return  333333;
 		}
         public function getData($uri)

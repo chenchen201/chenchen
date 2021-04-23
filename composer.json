@@ -1,5 +1,5 @@
 {
-    "name": "phpcurltest",
+    "name": "phpcurltest/curl",
     "description": "this is web",
 	"license": "Apache-2.0",
     "keywords": [

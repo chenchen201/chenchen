@@ -1,11 +1,10 @@
 {
     "name": "phpcurltest/curl",
     "description": "this is web",
-	"license": "MIT",
+	"license": "Apache-2.0",
     "keywords": [
         "php", "curl"
     ],
-    "version": "1.0.0",
     "type": "library",
 	"require": {
         "php": ">=5.0.0"

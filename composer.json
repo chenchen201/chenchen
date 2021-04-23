@@ -1,5 +1,5 @@
 {
-    "name": "phpcurltest",
+    "name": "phpcurltest/curl",
     "description": "this is web",
 	"license": "Apache-2.0",
     "keywords": [
@@ -16,7 +16,7 @@
         }
     ],
 	"autoload": {
-      "psr-4": {"phpcurltest\\":"phpcurltest/"},
+      "psr-4": {"phpcurltest\\":"/"},
       "files": ["\\phpcurltest\\functions.php"]
 	}
 }
